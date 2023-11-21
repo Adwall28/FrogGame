@@ -2,6 +2,10 @@
 
 https://github.com/Adwall28/FrogGame.git
 
+Specs:
+ -Windows
+ -Visual Studio 2022
+
  ![Screenshot 2023-11-21 105258](https://github.com/Adwall28/FrogGame/assets/98455674/0e4a0ed6-8bbc-4756-b1c7-2bda91da879e)
 
 Froggy is a simple console-based game, which uses a Frog's tongue to try and catch food for the hungry frog. I based it on the classic game 'Snake', but with some added features.
