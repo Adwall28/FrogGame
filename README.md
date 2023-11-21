@@ -15,6 +15,7 @@ How to Play:
 
 There are a few simple rules
 
+- Use WASD to move the Frog's Tongue
 - Catch all the flies (%) you can
 -  Beware of all the junk (@) flying around. 
 - The junk is poisonous, so eating it will cost you a life
